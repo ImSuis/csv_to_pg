@@ -22,7 +22,7 @@ column_mapping = {
 
 }
 
-# ignore_columns = ['description','buffer_stock_alloted',]
+ignore_columns = []
 
 boolean_columns = ['stock_holding_capability', 'is_route_owner', 'is_route_agent', 'assign_items']
 
